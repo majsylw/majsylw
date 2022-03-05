@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
+
 ### Hi there 👋, I am Sylwia!
 <br>
 
@@ -6,15 +8,22 @@
 - 🌱 I’m currently learning DL approaches for SLR in [HearAI](https://www.hearai.pl/)
 
 <br>
-<center>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majsylw)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+💌  Do you want to talk with me? Send me a message to one of the contacts below! 
+<br>
+<a href="https://majsylw.netlify.app/" alt="website">
+<img src='https://img.shields.io/badge/-majsylw.netlify.app-green' alt='website' height='20' /></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=majsylw&show_icons=true&count_private=true)  
+<a href="mailto:sylwia.majchrowska@pwr.edu.pl" alt="email">
+<img src="https://img.shields.io/badge/-sylwia.majchrowska(at)pwr.edu.pl-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=sylwia.majchrowska@pwr.edu.pl" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/majsylw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sylwia-majchrowska/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://majsylw.netlify.app/)  
+<a href="https://www.linkedin.com/in/sylwia-majchrowska" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Sylwia%20Majchrowska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sylwia-majchrowska" /></a>
+</p>
 
-</center>
+<img src="https://github-readme-stats.vercel.app/api?username=majsylw&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majsylw" min-width="400px" max-width="300px" width="300px" align="middle" alt="langs">
 
 
 <!--
