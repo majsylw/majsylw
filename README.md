@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
-### Hi there 👋, I am Sylwia!
+### [![Visits Badge](https://badges.pufler.dev/visits/majsylw/majsylw)](https://badges.pufler.dev/visits/majsylw/majsylw) Hi there 👋, I am Sylwia!
 <br>
 
 - 🔭 I’m currently preparing my PhD thesis at [WUST](https://pwr.edu.pl/en/)
