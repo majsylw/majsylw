@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently preparing my PhD thesis at [WUST](https://pwr.edu.pl/en/)
-- 👯 I’m currently developing DL-based tools in healthcare at [AI Sweden](https://www.ai.se/en) and [SUH](https://www.sahlgrenska.se/en/)
+- 👯 I’m currently developing DL-based tools in autonomous driving at [AI Sweden](https://www.ai.se/en) and [Zenseact](https://www.zenseact.com/)
 - 🌱 I’m currently learning DL approaches for SLR in [HearAI](https://www.hearai.pl/)
 
 <br>
