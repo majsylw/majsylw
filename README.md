@@ -3,8 +3,8 @@
 ### [![Visits Badge](https://badges.pufler.dev/visits/majsylw/majsylw)](https://badges.pufler.dev/visits/majsylw/majsylw) Hi there 👋, I am Sylwia!
 <br>
 
-- 🔭 I’m currently preparing my PhD thesis at [WUST](https://pwr.edu.pl/en/)
-- 👯 I’m currently developing DL-based tools in autonomous driving at [AI Sweden](https://www.ai.se/en) and [Zenseact](https://www.zenseact.com/)
+- 🔭 I’m currently developing DL-based tools for drug development at [AstraZeneca](https://www.astrazeneca.com/)
+- 👯 I’m currently explaining multimodal motion GNN-based aproches at [AI Sweden](https://www.ai.se/en) and [Zenseact](https://www.zenseact.com/)
 - 🌱 I’m currently learning DL approaches for SLR in [HearAI](https://www.hearai.pl/)
 
 <br>
@@ -17,7 +17,7 @@
 <img src='https://img.shields.io/badge/-majsylw.netlify.app-green' alt='website' height='20' /></a>
 
 <a href="mailto:sylwia.majchrowska@pwr.edu.pl" alt="email">
-<img src="https://img.shields.io/badge/-sylwia.majchrowska(at)pwr.edu.pl-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=sylwia.majchrowska@pwr.edu.pl" /></a>
+<img src="https://img.shields.io/badge/-sylwia.majchrowska(at)ai.se-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=sylwia.majchrowska@ai.se" /></a>
 
 <a href="https://www.linkedin.com/in/sylwia-majchrowska" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Sylwia%20Majchrowska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sylwia-majchrowska" /></a>
