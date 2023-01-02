@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
-### [![Visits Badge](https://badges.pufler.dev/visits/majsylw/majsylw)](https://badges.pufler.dev/visits/majsylw/majsylw) Hi there 👋, I am Sylwia!
+### Hi there 👋, I am Sylwia!
 <br>
 
 - 🔭 I’m currently developing DL-based tools for drug development at [AstraZeneca](https://www.astrazeneca.com/)
-- 👯 I’m currently explaining multimodal motion GNN-based aproches at [AI Sweden](https://www.ai.se/en) and [Zenseact](https://www.zenseact.com/)
+- 👯 I’m currently explaining CNN predictions at [AstraZeneca](https://www.astrazeneca.com/)
 - 🌱 I’m currently learning DL approaches for SLR in [HearAI](https://www.hearai.pl/)
 
 <br>
