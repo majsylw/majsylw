@@ -13,6 +13,15 @@
 <p align="left">
 💌  Do you want to talk with me? Send me a message to one of the contacts below! 
 <br>
+
+<a href="https://majsylw.netlify.app/" alt="website">
+<img src='https://img.shields.io/badge/-majsylw.netlify.app-green' alt='website' height='20' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0001-7576-7167"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="drawing" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Sylwia-Majchrowska"><img src="https://svgshare.com/i/9pP.svg" alt="drawing" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sylwia.majchrowska@pwr.edu.pl"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="drawing" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sylwia-majchrowska"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="160"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--
 <a href="https://majsylw.netlify.app/" alt="website">
 <img src='https://img.shields.io/badge/-majsylw.netlify.app-green' alt='website' height='20' /></a>
 
@@ -22,6 +31,7 @@
 <a href="https://www.linkedin.com/in/sylwia-majchrowska" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Sylwia%20Majchrowska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sylwia-majchrowska" /></a>
 </p>
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=majsylw&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majsylw" min-width="400px" max-width="300px" width="300px" align="middle" alt="langs">
 
