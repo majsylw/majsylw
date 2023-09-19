@@ -31,12 +31,9 @@
 <a href="https://www.linkedin.com/in/sylwia-majchrowska" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Sylwia%20Majchrowska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sylwia-majchrowska" /></a>
 </p>
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=majsylw&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majsylw" min-width="400px" max-width="300px" width="300px" align="middle" alt="langs">
 
-
-<!--
 **majsylw/majsylw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
